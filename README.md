@@ -1,1 +1,1 @@
-# Boycott_france
+# Boycott
