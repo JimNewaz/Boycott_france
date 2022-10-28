@@ -1,6 +1,7 @@
 # Boycott
 
 -> A fun project was made using Javascript. 
+
 -> Don't take it seriously please 
 
 How to run: 
